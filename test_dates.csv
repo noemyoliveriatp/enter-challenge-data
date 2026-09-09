@@ -1,0 +1,41 @@
+===METADATA===
+client=Vitor Aragão
+available_balance=31400.00
+reporting_period=November 7, 2025 to December 8, 2025
+advisor=Antonio Bicudo
+risk_profile=Moderado
+compatible_products=Ações de Empresas Consolidadas com Dividendos|Instrumentos de Renda Fixa BB+ ou Superior
+===HOLDINGS===
+category,asset,position_value_brl,allocation_pct,since_inception_return_pct,fund_style,proxy_index,sector,fi_index_type,fi_rate_pct,purchase_date
+Stocks,VALE3,42000.00,14.00,19.80,,,Mineração,,,03/2024
+Stocks,ITUB4,36000.00,12.00,26.40,,,Bancos,,,03/2024
+Funds,Riza Lotus Plus Advisory FIC FIRF REF DI CP,39000.00,13.00,9.70,fixed_income_di,CDI,,,,08/2024
+Funds,Constellation Institucional Advisory FIC FIA,33000.00,11.00,-6.20,equity_fund,IBOV,,,,05/2024
+Funds,Truxt Long Bias Advisory FIC FIM,36000.00,12.00,4.30,multi_strategy,IHFA,,,,05/2024
+FixedIncome,CDB Banco BTG IPCA+5.80,39000.00,13.00,11.90,,,,IPCA,5.80,02/2024
+FixedIncome,CDB Banco Master 108% CDI,42000.00,14.00,13.50,,,,CDI,108,01/2024
+FixedIncome,Tesouro Prefixado 2028,33000.00,11.00,6.10,,,,PREFIXED,13.2,04/2024
+===CANDIDATES===
+asset,company,sector,product_category
+GGBR4,Gerdau,Siderurgia / Commodities,
+ABEV3,Ambev,Bens de Consumo Básico,Ações de Empresas Consolidadas com Dividendos
+PETR4,Petrobras,Petróleo e Gás,Ações de Empresas Consolidadas com Dividendos
+VALE3,Vale,Mineração,Ações de Empresas Consolidadas com Dividendos
+ITUB4,Itaú Unibanco,Bancos,Ações de Empresas Consolidadas com Dividendos
+WEGE3,WEG,Bens de Capital / Industrial,Ações de Empresas Consolidadas com Dividendos
+B3SA3,B3,Infraestrutura de Mercado Financeiro,Ações de Empresas Consolidadas com Dividendos
+BBAS3,Banco do Brasil,Bancos,Ações de Empresas Consolidadas com Dividendos
+===PRICES===
+Asset class,Asset,Current price,Last month price
+Stocks,LREN3,16.94,15.55
+Stocks,GGBR4,23.45,22.9
+Stocks,ARZZ3,56.58,56.55
+Stocks,ABEV3,14.32,13.5
+Stocks,PETR4,37.12,34.8
+Stocks,VALE3,63.45,61.1
+Stocks,ITUB4,27.8,26.9
+Stocks,MRFG3,10.26,12.27
+Stocks,WEGE3,42.6,41.2
+Stocks,B3SA3,12.05,11.75
+Stocks,BBAS3,28.3,26.9
+Stocks,HAPV3,3.97,2.25
