@@ -1,0 +1,39 @@
+===METADATA===
+client=Rafael Nunes
+available_balance=22000.00
+reporting_period=April 7, 2025 to May 7, 2025
+advisor=Antonio Bicudo
+risk_profile=Arrojado
+compatible_products=Ações de Empresas Consolidadas com Dividendos|Instrumentos de Renda Fixa BB+ ou Superior
+===HOLDINGS===
+category,asset,position_value_brl,allocation_pct,since_inception_return_pct,fund_style,proxy_index,sector,fi_index_type,fi_rate_pct,purchase_date
+Stocks,LREN3,40000.00,20.00,22.10,,,Varejo / Consumo Discricionário,,,01/2024
+Stocks,PETR4,40000.00,20.00,31.50,,,Petróleo e Gás,,,01/2024
+Stocks,ABEV3,40000.00,20.00,4.80,,,Bens de Consumo Básico,,,07/2023
+Stocks,HAPV3,10000.00,5.00,-52.30,,,Saúde,,,11/2022
+Stocks,BBAS3,30000.00,15.00,18.90,,,Bancos,,,03/2023
+Funds,STK Long Biased FIC FIA,40000.00,20.00,9.40,equity_fund,IBOV,,,,11/2023
+===CANDIDATES===
+asset,company,sector,product_category
+GGBR4,Gerdau,Siderurgia / Commodities,
+ABEV3,Ambev,Bens de Consumo Básico,Ações de Empresas Consolidadas com Dividendos
+PETR4,Petrobras,Petróleo e Gás,Ações de Empresas Consolidadas com Dividendos
+VALE3,Vale,Mineração,Ações de Empresas Consolidadas com Dividendos
+ITUB4,Itaú Unibanco,Bancos,Ações de Empresas Consolidadas com Dividendos
+WEGE3,WEG,Bens de Capital / Industrial,Ações de Empresas Consolidadas com Dividendos
+B3SA3,B3,Infraestrutura de Mercado Financeiro,Ações de Empresas Consolidadas com Dividendos
+BBAS3,Banco do Brasil,Bancos,Ações de Empresas Consolidadas com Dividendos
+===PRICES===
+Asset class,Asset,Current price,Last month price
+Stocks,LREN3,16.94,15.55
+Stocks,GGBR4,23.45,22.9
+Stocks,ARZZ3,56.58,56.55
+Stocks,ABEV3,14.32,13.5
+Stocks,PETR4,37.12,34.8
+Stocks,VALE3,63.45,61.1
+Stocks,ITUB4,27.8,26.9
+Stocks,MRFG3,10.26,12.27
+Stocks,WEGE3,42.6,41.2
+Stocks,B3SA3,12.05,11.75
+Stocks,BBAS3,28.3,26.9
+Stocks,HAPV3,3.97,2.25
