@@ -1,0 +1,45 @@
+===METADATA===
+client=Albert da Silva
+available_balance=74672.62
+reporting_period=April 7, 2025 to May 7, 2025
+advisor=Antonio Bicudo
+risk_profile=Moderado
+compatible_products=Ações de Empresas Consolidadas com Dividendos|Instrumentos de Renda Fixa BB+ ou Superior
+===HOLDINGS===
+category,asset,position_value_brl,allocation_pct,since_inception_return_pct,fund_style,proxy_index,sector,fi_index_type,fi_rate_pct,purchase_date
+Stocks,LREN3,27812.04,8.91,-41.7,,,Varejo / Consumo Discricionário,,,04/2021
+Stocks,MRFG3,15432.89,4.94,43.5,,,Alimentos / Proteína Animal,,,04/2021
+Stocks,ARZZ3,10923.72,3.50,-31.05,,,Varejo / Consumo Discricionário,,,11/2022
+Stocks,HAPV3,6143.14,1.97,-74.58,,,Saúde,,,11/2022
+Funds,Riza Lotus Plus Advisory FIC FIRF REF DI CP,96178.73,30.81,15.51,fixed_income_di,CDI,,,,04/2021
+Funds,Brave I FIC FIM CP,72567.43,23.24,19.08,multi_strategy,CDI,,,,04/2021
+Funds,Trend Investback FIC FIRF Simples,305.44,0.10,16.01,fixed_income_di,CDI,,,,11/2022
+Funds,Truxt Long Bias Advisory FIC FIM,12522.05,4.01,-12.13,multi_strategy,IBOV,,,,11/2022
+Funds,STK Long Biased FIC FIA,9745.97,3.12,-14.51,equity_fund,IBOV,,,,11/2023
+Funds,Constellation Institucional Advisory FIC FIA,8475.02,2.71,-25.66,equity_fund,IBOV,,,,11/2023
+Funds,Ibiuna Hedge ST Advisory FIC FIM,11601.02,3.72,33.74,multi_strategy,IHFA,,,,11/2023
+FixedIncome,CDB Banco C6 Consignado SET/2024,40478.75,12.97,,,,,IPCA,5.45,09/2021
+===CANDIDATES===
+asset,company,sector,product_category
+GGBR4,Gerdau,Siderurgia / Commodities,
+ABEV3,Ambev,Bens de Consumo Básico,Ações de Empresas Consolidadas com Dividendos
+PETR4,Petrobras,Petróleo e Gás,Ações de Empresas Consolidadas com Dividendos
+VALE3,Vale,Mineração,Ações de Empresas Consolidadas com Dividendos
+ITUB4,Itaú Unibanco,Bancos,Ações de Empresas Consolidadas com Dividendos
+WEGE3,WEG,Bens de Capital / Industrial,Ações de Empresas Consolidadas com Dividendos
+B3SA3,B3,Infraestrutura de Mercado Financeiro,Ações de Empresas Consolidadas com Dividendos
+BBAS3,Banco do Brasil,Bancos,Ações de Empresas Consolidadas com Dividendos
+===PRICES===
+Asset class,Asset,Current price,Last month price
+Stocks,LREN3,16.94,15.55
+Stocks,GGBR4,23.45,22.9
+Stocks,ARZZ3,56.58,56.55
+Stocks,ABEV3,14.32,13.5
+Stocks,PETR4,37.12,34.8
+Stocks,VALE3,63.45,61.1
+Stocks,ITUB4,27.8,26.9
+Stocks,MRFG3,10.26,12.27
+Stocks,WEGE3,42.6,41.2
+Stocks,B3SA3,12.05,11.75
+Stocks,BBAS3,28.3,26.9
+Stocks,HAPV3,3.97,2.25
