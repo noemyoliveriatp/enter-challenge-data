@@ -1,0 +1,33 @@
+Perfil de Risco do Cliente: Albert
+Classificação do Perfil de Investimento: Conservador
+
+1. Descrição do Perfil Conservador:
+O perfil de investimento conservador posiciona o cliente no extremo de menor
+exposição a risco. Albert prioriza a preservação do capital nominal acima de
+qualquer expectativa de retorno superior, e demonstra desconforto com
+oscilações de curto prazo no valor de suas aplicações.
+O foco do investidor é proteger o principal investido e acompanhar a variação
+do CDI, sem buscar retornos acima desse referencial.
+Albert declarou que não tolera perdas permanentes de capital e que oscilações
+negativas superiores a poucos pontos percentuais o levariam a reavaliar a
+estratégia. Seu horizonte é de curto a médio prazo, e ele indicou que pode
+precisar de liquidez em prazo inferior a doze meses para uma reserva de
+emergência equivalente a seis meses de despesas.
+
+2. Produtos Financeiros Compatíveis:
+a. Instrumentos de Renda Fixa com Classificação A ou Superior:
+Títulos públicos federais, CDBs de instituições financeiras de grande porte e
+LCIs e LCAs com cobertura do Fundo Garantidor de Créditos. A prioridade é
+liquidez diária ou vencimento curto, com risco de crédito mínimo.
+
+b. Fundos de Renda Fixa Referenciados DI:
+Fundos de baixa volatilidade que acompanham o CDI, com liquidez em D+0 ou D+1,
+sem alavancagem e sem exposição a crédito privado de maior risco.
+
+3. Estratégias Recomendadas:
+Para alinhar com seu perfil conservador, Albert deve concentrar suas aplicações
+em instrumentos de renda fixa de alta qualidade de crédito e liquidez elevada.
+Exposição a renda variável, fundos multimercado ou fundos de ações não é
+recomendada para este perfil. É recomendável que ele mantenha reserva de
+liquidez adequada e evite produtos com carência ou marcação a mercado
+significativa.
