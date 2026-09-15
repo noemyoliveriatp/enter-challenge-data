@@ -6,12 +6,12 @@ advisor=Antonio Bicudo
 risk_profile=Moderado
 compatible_products=Ações de Empresas Consolidadas com Dividendos|Instrumentos de Renda Fixa BB+ ou Superior
 ===HOLDINGS===
-category,asset,position_value_brl,allocation_pct,since_inception_return_pct,fund_style,proxy_index,sector,fi_index_type,fi_rate_pct,purchase_date
-Stocks,MRFG3,75000.00,37.50,-22.40,,,Alimentos / Proteína Animal,,,05/2022
-Stocks,ARZZ3,30000.00,15.00,-15.70,,,Varejo / Consumo Discricionário,,,05/2022
-Funds,Ibiuna Hedge ST Advisory FIC FIM,40000.00,20.00,6.80,multi_strategy,IHFA,,,,11/2023
-FixedIncome,CDB Banco C6 100% CDI,30000.00,15.00,13.10,,,,CDI,100,04/2023
-RealEstate,HGLG11 - CSHG Logística,25000.00,12.50,6.80,,,Fundos Imobiliários,,,05/2024
+category,asset,position_value_brl,since_inception_return_pct,fund_style,proxy_index,sector,fi_index_type,fi_rate_pct,purchase_date
+Stocks,MRFG3,75000.00,-22.40,,,Alimentos / Proteína Animal,,,05/2022
+Stocks,ARZZ3,30000.00,-15.70,,,Varejo / Consumo Discricionário,,,05/2022
+Funds,Ibiuna Hedge ST Advisory FIC FIM,40000.00,6.80,multi_strategy,IHFA,,,,11/2023
+FixedIncome,CDB Banco C6 100% CDI,30000.00,13.10,,,,CDI,100,04/2023
+RealEstate,HGLG11 - CSHG Logística,25000.00,6.80,,,Fundos Imobiliários,,,05/2024
 ===CANDIDATES===
 asset,company,sector,product_category
 GGBR4,Gerdau,Siderurgia / Commodities,

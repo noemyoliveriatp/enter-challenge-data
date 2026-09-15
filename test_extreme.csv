@@ -6,13 +6,13 @@ advisor=Antonio Bicudo
 risk_profile=Moderado
 compatible_products=Ações de Empresas Consolidadas com Dividendos|Instrumentos de Renda Fixa BB+ ou Superior
 ===HOLDINGS===
-category,asset,position_value_brl,allocation_pct,since_inception_return_pct,fund_style,proxy_index,sector,fi_index_type,fi_rate_pct,purchase_date
-Funds,Riza Lotus Plus Advisory FIC FIRF REF DI CP,170000.00,85.00,15.51,fixed_income_di,CDI,,,,04/2021
-Stocks,LREN3,7000.00,3.50,-41.70,,,Varejo / Consumo Discricionário,,,04/2021
-FixedIncome,CDB Banco C6 IPCA+5.45,8000.00,4.00,,,,,IPCA,5.45,09/2021
-RealEstate,HGLG11 - CSHG Logística,6000.00,3.00,4.20,,,Fundos Imobiliários,,,05/2024
-Multimarket,BTG Pactual Absoluto FIC FIA,5000.00,2.50,3.10,,,,,,07/2024
-Offshore,Vanguard Total World Stock ETF,4000.00,2.00,9.80,,,Global Equity,,,03/2024
+category,asset,position_value_brl,since_inception_return_pct,fund_style,proxy_index,sector,fi_index_type,fi_rate_pct,purchase_date
+Funds,Riza Lotus Plus Advisory FIC FIRF REF DI CP,170000.00,15.51,fixed_income_di,CDI,,,,04/2021
+Stocks,LREN3,7000.00,-41.70,,,Varejo / Consumo Discricionário,,,04/2021
+FixedIncome,CDB Banco C6 IPCA+5.45,8000.00,,,,,IPCA,5.45,09/2021
+RealEstate,HGLG11 - CSHG Logística,6000.00,4.20,,,Fundos Imobiliários,,,05/2024
+Multimarket,BTG Pactual Absoluto FIC FIA,5000.00,3.10,,,,,,07/2024
+Offshore,Vanguard Total World Stock ETF,4000.00,9.80,,,Global Equity,,,03/2024
 ===CANDIDATES===
 asset,company,sector,product_category
 GGBR4,Gerdau,Siderurgia / Commodities,

@@ -6,15 +6,15 @@ advisor=Antonio Bicudo
 risk_profile=Conservador
 compatible_products=Instrumentos de Renda Fixa BB+ ou Superior
 ===HOLDINGS===
-category,asset,position_value_brl,allocation_pct,since_inception_return_pct,fund_style,proxy_index,sector,fi_index_type,fi_rate_pct,purchase_date
-Stocks,LREN3,25000.00,10.00,12.40,,,Varejo / Consumo Discricionário,,,03/2023
-Stocks,ARZZ3,25000.00,10.00,-8.10,,,Varejo / Consumo Discricionário,,,03/2023
-Stocks,B3SA3,25000.00,10.00,5.60,,,Infraestrutura de Mercado Financeiro,,,06/2023
-FixedIncome,CDB Banco Master 105% CDI,35000.00,14.00,18.20,,,,CDI,105,01/2023
-FixedIncome,LCI Banco Inter 95% CDI,35000.00,14.00,11.40,,,,CDI,95,05/2023
-FixedIncome,Tesouro Prefixado 2027,35000.00,14.00,9.80,,,,PREFIXED,12.5,02/2023
-FixedIncome,CDB Banco C6 IPCA+6.0,35000.00,14.00,14.30,,,,IPCA,6.0,09/2022
-FixedIncome,Debenture Vale 2029,35000.00,14.00,7.20,,,,PREFIXED,11.8,08/2023
+category,asset,position_value_brl,since_inception_return_pct,fund_style,proxy_index,sector,fi_index_type,fi_rate_pct,purchase_date
+Stocks,LREN3,25000.00,12.40,,,Varejo / Consumo Discricionário,,,03/2023
+Stocks,ARZZ3,25000.00,-8.10,,,Varejo / Consumo Discricionário,,,03/2023
+Stocks,B3SA3,25000.00,5.60,,,Infraestrutura de Mercado Financeiro,,,06/2023
+FixedIncome,CDB Banco Master 105% CDI,35000.00,18.20,,,,CDI,105,01/2023
+FixedIncome,LCI Banco Inter 95% CDI,35000.00,11.40,,,,CDI,95,05/2023
+FixedIncome,Tesouro Prefixado 2027,35000.00,9.80,,,,PREFIXED,12.5,02/2023
+FixedIncome,CDB Banco C6 IPCA+6.0,35000.00,14.30,,,,IPCA,6.0,09/2022
+FixedIncome,Debenture Vale 2029,35000.00,7.20,,,,PREFIXED,11.8,08/2023
 ===CANDIDATES===
 asset,company,sector,product_category
 GGBR4,Gerdau,Siderurgia / Commodities,

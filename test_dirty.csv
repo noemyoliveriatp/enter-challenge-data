@@ -6,12 +6,12 @@ advisor=Antonio Bicudo
 risk_profile=Moderado
 compatible_products=Ações de Empresas Consolidadas com Dividendos|Instrumentos de Renda Fixa BB+ ou Superior
 ===HOLDINGS===
-category,asset,position_value_brl,allocation_pct,since_inception_return_pct,fund_style,proxy_index,sector,fi_index_type,fi_rate_pct,purchase_date
-Stocks,VALE3,30000.00,20.00,,,,,,,02/2024
-Stocks,WEGE3,25000.00,16.67,7.30,,,Bens de Capital / Industrial,,,02/2024
-FixedIncome,CDB Indexado SELIC,35000.00,23.33,4.10,,,,SELIC,100,06/2023
-Funds,Kapitalo Zeta Long Short FIC FIM,35000.00,23.33,2.20,long_short,IBOV,,,,09/2023
-Funds,Trend Investback FIC FIRF Simples,25000.00,16.67,16.01,fixed_income_di,CDI,,,,11/2022
+category,asset,position_value_brl,since_inception_return_pct,fund_style,proxy_index,sector,fi_index_type,fi_rate_pct,purchase_date
+Stocks,VALE3,30000.00,,,,,,,02/2024
+Stocks,WEGE3,25000.00,7.30,,,Bens de Capital / Industrial,,,02/2024
+FixedIncome,CDB Indexado SELIC,35000.00,4.10,,,,SELIC,100,06/2023
+Funds,Kapitalo Zeta Long Short FIC FIM,35000.00,2.20,long_short,,,,,09/2023
+Funds,Trend Investback FIC FIRF Simples,25000.00,16.01,fixed_income_di,CDI,,,,11/2022
 ===CANDIDATES===
 asset,company,sector,product_category
 GGBR4,Gerdau,Siderurgia / Commodities,

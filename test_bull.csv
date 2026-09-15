@@ -6,13 +6,13 @@ advisor=Antonio Bicudo
 risk_profile=Arrojado
 compatible_products=Ações de Empresas Consolidadas com Dividendos|Instrumentos de Renda Fixa BB+ ou Superior
 ===HOLDINGS===
-category,asset,position_value_brl,allocation_pct,since_inception_return_pct,fund_style,proxy_index,sector,fi_index_type,fi_rate_pct,purchase_date
-Stocks,LREN3,40000.00,20.00,22.10,,,Varejo / Consumo Discricionário,,,01/2024
-Stocks,PETR4,40000.00,20.00,31.50,,,Petróleo e Gás,,,01/2024
-Stocks,ABEV3,40000.00,20.00,4.80,,,Bens de Consumo Básico,,,07/2023
-Stocks,HAPV3,10000.00,5.00,-52.30,,,Saúde,,,11/2022
-Stocks,BBAS3,30000.00,15.00,18.90,,,Bancos,,,03/2023
-Funds,STK Long Biased FIC FIA,40000.00,20.00,9.40,equity_fund,IBOV,,,,11/2023
+category,asset,position_value_brl,since_inception_return_pct,fund_style,proxy_index,sector,fi_index_type,fi_rate_pct,purchase_date
+Stocks,LREN3,40000.00,22.10,,,Varejo / Consumo Discricionário,,,01/2024
+Stocks,PETR4,40000.00,31.50,,,Petróleo e Gás,,,01/2024
+Stocks,ABEV3,40000.00,4.80,,,Bens de Consumo Básico,,,07/2023
+Stocks,HAPV3,10000.00,-52.30,,,Saúde,,,11/2022
+Stocks,BBAS3,30000.00,18.90,,,Bancos,,,03/2023
+Funds,STK Long Biased FIC FIA,40000.00,9.40,equity_fund,IBOV,,,,11/2023
 ===CANDIDATES===
 asset,company,sector,product_category
 GGBR4,Gerdau,Siderurgia / Commodities,

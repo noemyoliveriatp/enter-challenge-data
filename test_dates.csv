@@ -6,15 +6,15 @@ advisor=Antonio Bicudo
 risk_profile=Moderado
 compatible_products=Ações de Empresas Consolidadas com Dividendos|Instrumentos de Renda Fixa BB+ ou Superior
 ===HOLDINGS===
-category,asset,position_value_brl,allocation_pct,since_inception_return_pct,fund_style,proxy_index,sector,fi_index_type,fi_rate_pct,purchase_date
-Stocks,VALE3,42000.00,14.00,19.80,,,Mineração,,,03/2024
-Stocks,ITUB4,36000.00,12.00,26.40,,,Bancos,,,03/2024
-Funds,Riza Lotus Plus Advisory FIC FIRF REF DI CP,39000.00,13.00,9.70,fixed_income_di,CDI,,,,08/2024
-Funds,Constellation Institucional Advisory FIC FIA,33000.00,11.00,-6.20,equity_fund,IBOV,,,,05/2024
-Funds,Truxt Long Bias Advisory FIC FIM,36000.00,12.00,4.30,multi_strategy,IHFA,,,,05/2024
-FixedIncome,CDB Banco BTG IPCA+5.80,39000.00,13.00,11.90,,,,IPCA,5.80,02/2024
-FixedIncome,CDB Banco Master 108% CDI,42000.00,14.00,13.50,,,,CDI,108,01/2024
-FixedIncome,Tesouro Prefixado 2028,33000.00,11.00,6.10,,,,PREFIXED,13.2,04/2024
+category,asset,position_value_brl,since_inception_return_pct,fund_style,proxy_index,sector,fi_index_type,fi_rate_pct,purchase_date
+Stocks,VALE3,42000.00,19.80,,,Mineração,,,03/2024
+Stocks,ITUB4,36000.00,26.40,,,Bancos,,,03/2024
+Funds,Riza Lotus Plus Advisory FIC FIRF REF DI CP,39000.00,9.70,fixed_income_di,CDI,,,,08/2024
+Funds,Constellation Institucional Advisory FIC FIA,33000.00,-6.20,equity_fund,IBOV,,,,05/2024
+Funds,Truxt Long Bias Advisory FIC FIM,36000.00,4.30,multi_strategy,IHFA,,,,05/2024
+FixedIncome,CDB Banco BTG IPCA+5.80,39000.00,11.90,,,,IPCA,5.80,02/2024
+FixedIncome,CDB Banco Master 108% CDI,42000.00,13.50,,,,CDI,108,01/2024
+FixedIncome,Tesouro Prefixado 2028,33000.00,6.10,,,,PREFIXED,13.2,04/2024
 ===CANDIDATES===
 asset,company,sector,product_category
 GGBR4,Gerdau,Siderurgia / Commodities,

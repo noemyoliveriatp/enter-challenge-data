@@ -6,19 +6,19 @@ advisor=Antonio Bicudo
 risk_profile=Moderado
 compatible_products=Ações de Empresas Consolidadas com Dividendos|Instrumentos de Renda Fixa BB+ ou Superior
 ===HOLDINGS===
-category,asset,position_value_brl,allocation_pct,since_inception_return_pct,fund_style,proxy_index,sector,fi_index_type,fi_rate_pct,purchase_date
-Stocks,LREN3,27812.04,8.91,-41.7,,,Varejo / Consumo Discricionário,,,04/2021
-Stocks,MRFG3,15432.89,4.94,43.5,,,Alimentos / Proteína Animal,,,04/2021
-Stocks,ARZZ3,10923.72,3.50,-31.05,,,Varejo / Consumo Discricionário,,,11/2022
-Stocks,HAPV3,6143.14,1.97,-74.58,,,Saúde,,,11/2022
-Funds,Riza Lotus Plus Advisory FIC FIRF REF DI CP,96178.73,30.81,15.51,fixed_income_di,CDI,,,,04/2021
-Funds,Brave I FIC FIM CP,72567.43,23.24,19.08,multi_strategy,CDI,,,,04/2021
-Funds,Trend Investback FIC FIRF Simples,305.44,0.10,16.01,fixed_income_di,CDI,,,,11/2022
-Funds,Truxt Long Bias Advisory FIC FIM,12522.05,4.01,-12.13,multi_strategy,IBOV,,,,11/2022
-Funds,STK Long Biased FIC FIA,9745.97,3.12,-14.51,equity_fund,IBOV,,,,11/2023
-Funds,Constellation Institucional Advisory FIC FIA,8475.02,2.71,-25.66,equity_fund,IBOV,,,,11/2023
-Funds,Ibiuna Hedge ST Advisory FIC FIM,11601.02,3.72,33.74,multi_strategy,IHFA,,,,11/2023
-FixedIncome,CDB Banco C6 Consignado SET/2024,40478.75,12.97,,,,,IPCA,5.45,09/2021
+category,asset,position_value_brl,since_inception_return_pct,fund_style,proxy_index,sector,fi_index_type,fi_rate_pct,purchase_date
+Stocks,LREN3,27812.04,-41.7,,,Varejo / Consumo Discricionário,,,04/2021
+Stocks,MRFG3,15432.89,43.5,,,Alimentos / Proteína Animal,,,04/2021
+Stocks,ARZZ3,10923.72,-31.05,,,Varejo / Consumo Discricionário,,,11/2022
+Stocks,HAPV3,6143.14,-74.58,,,Saúde,,,11/2022
+Funds,Riza Lotus Plus Advisory FIC FIRF REF DI CP,96178.73,15.51,fixed_income_di,CDI,,,,04/2021
+Funds,Brave I FIC FIM CP,72567.43,19.08,multi_strategy,IHFA,,,,04/2021
+Funds,Trend Investback FIC FIRF Simples,305.44,16.01,fixed_income_di,CDI,,,,11/2022
+Funds,Truxt Long Bias Advisory FIC FIM,12522.05,-12.13,multi_strategy,IHFA,,,,11/2022
+Funds,STK Long Biased FIC FIA,9745.97,-14.51,equity_fund,IBOV,,,,11/2023
+Funds,Constellation Institucional Advisory FIC FIA,8475.02,-25.66,equity_fund,IBOV,,,,11/2023
+Funds,Ibiuna Hedge ST Advisory FIC FIM,11601.02,33.74,multi_strategy,IHFA,,,,11/2023
+FixedIncome,CDB Banco C6 Consignado SET/2024,40478.75,,,,,IPCA,5.45,09/2021
 ===CANDIDATES===
 asset,company,sector,product_category
 GGBR4,Gerdau,Siderurgia / Commodities,
